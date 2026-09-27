@@ -1,0 +1,6 @@
+{
+  "name": "Kramank - The Indian Public Ranking Marketplace",
+  "description": "The competitive, verified pay-to-rank leaderboard for Indian startups, SaaS, AI tools, creators, agencies, and online businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
